@@ -1,4 +1,2 @@
-# CAB
-
-Source code of the CAB model.
+The source code of our ACL 2022 submission.
 
